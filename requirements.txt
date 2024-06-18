@@ -1,3 +1,4 @@
 requests>=2.6.0
 click>=6.7
 beautifulsoup4>=4.6.0
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
