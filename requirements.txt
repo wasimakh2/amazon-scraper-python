@@ -1,3 +1,4 @@
 requests>=2.6.0
 click>=6.7
 beautifulsoup4>=4.6.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
